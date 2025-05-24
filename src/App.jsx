@@ -11,7 +11,7 @@ import Awards from './component/Awards';
 import Advertise from './component/Advertise';
 import Gallery from './component/Gallery';
 import News from './component/News';
-import Footer from './component/Footer';
+import Footer from './component/footer';
 
 
 
